@@ -1,0 +1,104 @@
+* {
+	margin: 0;padding: 0;
+}
+
+#Container {
+	width:100%;
+}
+
+#logo{
+	width:100%;
+	size:30%;
+}
+#Header {
+	width: 100%;
+	height: 120px;
+	/*position: relative;*/
+	background-color:444444;
+	border-bottom: 2px solid #000000;
+	font-size: 16pt;
+
+	color: white;
+	text-align: left; 
+	display: table;
+        padding: 12px ;
+}
+
+#Leftnav {
+	float: left;
+	width: 200px;
+	height: 520px;
+	background-color: #eeeeee;
+	border-right: 1px solid #cccccc;
+}
+
+#Rightnav {
+	float: right;
+	width: 200px;
+	height: 520px;
+	background-color: #eeeeee;
+	border-left: 1px solid #cccccc;
+}
+
+#Body {
+	margin: auto;
+	width: 100%;
+	height: 470px;
+	padding: 20px 20px 20px 20px;
+	
+}
+
+#Footer {
+	height: 50px;
+	clear: both;
+	background-color: #48a9e4;
+
+	background-image: -webkit-gradient(linear, 0% 0%, 0% 100%, from(#48a9e4), to(#0779bf));
+	font-family: Verdana, Arial, Helvetica, sans-serif;
+	font-size: 11px;
+	line-height: 1.2em;
+	color: #eee;
+	text-align: center; 
+	vertical-align: middle;
+	padding-top: 43px;
+}
+
+b {
+	font-size: 40pt;
+	font-family: Cooper Std Black;
+}
+
+
+#Leftnavv {
+	float: left;
+	width: 200px;
+	height: 520px;
+	
+	
+}
+
+#Rightnavv {
+	float: right;
+	width: 200px;
+	height: 520px;
+	
+}
+
+
+#fullBody {
+    	margin: auto;
+	width: 100%;
+	background-color: #eeeeee;
+	padding: 20px 20px 20px 20px;
+	height: 470px;
+
+}
+
+#loginBody{
+    width: 200px;
+    
+        
+}
+h1,h2,h3,h4,h5,h6{margin-top:0;margin-bottom:.5rem}
+.mb-3,.my-3{margin-bottom:1rem!important}
+.font-weight-normal{font-weight:400!important}
